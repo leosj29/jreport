@@ -1,2 +1,3 @@
-# jreport
-Java project for PDF report generation using Freemarker
+# JRreport
+
+Under construction. XD
